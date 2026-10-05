@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Preserve exact 3DVista export bytes during GitHub publication.
+* -text

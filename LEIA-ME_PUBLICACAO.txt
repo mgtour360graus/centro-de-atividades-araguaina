@@ -1,0 +1,10 @@
+CENTRO DE ATIVIDADES SESC ARAGUAÍNA — TOUR 360°
+Skin institucional 4.3.0-araguaina-20261005
+85 panorâmicas, mesma playlist em desktop e mobile.
+Grupos: Entrada, Esporte, Cultura, Odontologia, Educação e Alimentação.
+URL: https://mgtour360graus.github.io/centro-de-atividades-araguaina/
+index.html e index.htm abrem o tour. A pasta skin-fecomercio contém a interface externa.
+Não editar script.js, script_general.js, script_mobile.js, lib, locale, media ou misc.
+Após uma nova exportação, reintegrar a chamada da skin e atualizar index.html.
+Mapa e telefone conferidos em https://www1.sescto.com.br/UnidadeOperacional/Details/5?modal=False
+Backup original e auditoria SHA-256 estão fora desta pasta de publicação.

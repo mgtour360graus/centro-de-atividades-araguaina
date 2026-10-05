@@ -1,0 +1,108 @@
+#: locale=pt
+
+## Media
+
+### Subtitle
+panorama_1A1E9D3A_0BDE_EA20_41A7_507526898130.subtitle = Educação Infantil 
+panorama_1B2AB437_0BDA_BA2F_4192_C81F78C77379.subtitle = Educação Infantil 
+panorama_192FE3C5_0BDA_5E60_419C_BC2F12760D53.subtitle = Educação Infantil 
+panorama_1B288B0E_0BDE_AFE0_41A4_9A82D460F953.subtitle = Educação Infantil 
+panorama_1B2931FC_0BDE_BA21_41A5_357450817B9E.subtitle = Educação Infantil 
+panorama_1B29CC16_0BDE_E9E1_41A6_04C92EF01CB2.subtitle = Educação Infantil 
+panorama_1B051CF4_0BD9_EA21_419C_58B2BAC871D0.subtitle = educação Infantil 
+panorama_1AB2C052_0BD9_FA60_41A5_214EF1106778.subtitle = educação Infantil 
+
+### Title
+panorama_1BAE6674_0BB9_E620_41A3_55E523A452A2.label = Academia 2°Andar
+panorama_1BAE4CDD_0BB9_EA63_4136_6019EFE11C1C.label = Academia 2°Andar
+panorama_1BAEA06E_0BB9_FA20_41A2_600D1508BAF1.label = Academia 2°Andar
+panorama_1AEC667E_0BB9_A620_418F_B35E4AD12015.label = Academia 2°Andar
+panorama_1B908678_0BB9_E620_41A3_6390CCE14314.label = Academia 2°Andar
+panorama_1BD217AF_0BBE_663F_4182_9EE9A56FA3C1.label = Academia 3° Andar
+panorama_19B71A9B_0BBE_6EE7_4177_6BC924D168A2.label = Academia 3° Andar
+panorama_1BD2758E_0BBE_5AE0_41A7_3C526B99EEAC.label = Academia 3° Andar
+panorama_1BD25E85_0BBE_66E3_41A2_0B47A8699CD7.label = Academia 3° Andar
+panorama_1BC3010B_0BBE_7BE7_419E_278EBB2FB377.label = Academia 3° Andar
+panorama_1B7291C5_0BB6_DA60_418F_541CE87C5808.label = Auditório Cine
+panorama_1B3DB7EB_0BB6_E627_4191_6209841CFCF8.label = Auditório Cine
+panorama_1B3DAA45_0BB6_EE63_4193_57374F2A6930.label = Auditório Cine
+panorama_1B3DF0F3_0BB6_FA20_418D_4B0130CC44DD.label = Auditório Cine
+panorama_1B051CF4_0BD9_EA21_419C_58B2BAC871D0.label = Banheiro PCD
+panorama_1AB2C052_0BD9_FA60_41A5_214EF1106778.label = Banheiro PCD
+panorama_192FE3C5_0BDA_5E60_419C_BC2F12760D53.label = Brinquedoteca
+panorama_1B2AB437_0BDA_BA2F_4192_C81F78C77379.label = Brinquedoteca
+panorama_1895AB3C_0BD6_6E21_4161_00FFC4EB9B9D.label = Consultório Odontológico
+panorama_1B083936_0BD6_AA20_4195_BF859EBA739E.label = Consultório Odontológico
+panorama_1B0EA2FE_0BD6_5E21_41A5_16B3A6164CDE.label = Consultório Odontológico
+panorama_190FFAD8_0BFE_6E60_418F_63C7D589854D.label = Entrada Lateral Prédio
+panorama_1FA9ECA0_0BFE_6A21_4176_C76E14B896FC.label = Entrada Lateral Prédio
+panorama_190D33DC_0BFE_5E61_416F_BFC8E920F0DE.label = Entrada Lateral Prédio
+panorama_190D7A97_0BFF_AEEF_41A3_348865C01D17.label = Entrada Lateral Prédio
+panorama_19222F6E_0BF7_A621_418A_B90B720F14BF.label = Escola SESC sala 1
+panorama_1F020D77_0BF6_6A20_41A3_5AEEAAA79D2D.label = Escola SESC sala 1
+panorama_1923E959_0BF7_AA63_419D_6C1C2808DBA3.label = Escola SESC sala 1
+panorama_18E8ACB6_0BEA_AA20_4192_F224DCDAED0A.label = Escola SESC sala 2
+panorama_192C9ED5_0BEA_6663_4182_F59D3314AF32.label = Escola SESC sala 2
+panorama_18BCD28F_0BE9_BEFF_419E_7C0D0BAB2930.label = Escola SESC sala 3
+panorama_18F96CC8_0BE9_AA60_41A7_891B0D9966A2.label = Escola SESC sala 3
+panorama_188E5C72_0BEE_AA21_418C_C4C13F8A603E.label = Escola SESC sala 4
+panorama_1F3FADEF_0BEE_AA3F_41A7_82212FB072EA.label = Escola SESC sala 4
+panorama_1F016690_0BEA_A6E0_4191_06F9F9B0D692.label = Escola SESC sala 6
+panorama_18B7E4B4_0BEA_5A21_4199_102E1AB22536.label = Escola SESC sala 6
+panorama_187E952F_0BD6_7A20_41A5_345E440070CA.label = Ginásio
+panorama_18404EB6_0BD6_6621_41A3_96B5A67B1898.label = Ginásio
+panorama_1ED4E63C_0BD6_6621_419D_89106B90E145.label = Ginásio
+panorama_1FAD866E_0BDB_A621_4192_E5CFBB2BBFBB.label = Hall
+panorama_1FE43D1A_0BDB_ABE0_4193_9FC48F558355.label = Hall
+panorama_1FE597F0_0BDA_6620_4166_C0BDC5FB309C.label = Hall
+panorama_1A1E9D3A_0BDE_EA20_41A7_507526898130.label = Hall de Entrada Edu. Infantil
+panorama_1B2931FC_0BDE_BA21_41A5_357450817B9E.label = Hall de Entrada Edu. Infantil
+panorama_1B29CC16_0BDE_E9E1_41A6_04C92EF01CB2.label = Hall de Entrada Edu. Infantil
+panorama_1B288B0E_0BDE_AFE0_41A4_9A82D460F953.label = Hall de Entrada Edu. Infantil
+panorama_1D78377A_0BDA_6621_4190_13C4F68CA4B1.label = Karatê Funcional
+panorama_1FC67E11_0BDA_69E3_4198_59F8EAEF8A4F.label = Karatê Funcional
+panorama_1DC10780_0BD6_66E0_4199_BB064BF02C30.label = Lanchonete
+panorama_1FC4F59C_0BD6_7AE0_4170_09F305131A6F.label = Pilates
+panorama_1E2A496A_0BD6_6A20_4194_C7253CFBEDDE.label = Pilates
+panorama_1FA3273F_0BAA_A61F_4197_CDA2BABCC754.label = Piscina Adulto
+panorama_1FAC8052_0BAA_BA61_41A3_5148C82749E3.label = Piscina Adulto
+panorama_1FA349BF_0BAA_AA20_4193_C08582051C9A.label = Piscina Adulto
+panorama_1F50F8BA_0BB6_AA21_414F_0B4057CF1A10.label = Piscina Hidrogisnática
+panorama_1D0EE27C_0BB6_BE21_41A3_EEA693385C79.label = Piscina Hidrogisnática
+panorama_1E0F6006_0BAA_F9E1_417D_51FF76F7D795.label = Piscina Infantil
+panorama_1FA22C97_0BAA_EAE0_419A_F98F60892BF1.label = Piscina Infantil
+panorama_1FAC8321_0BAA_DE20_4182_093DE161D522.label = Piscina Infantil
+panorama_1A380CCF_0BD6_6A60_4188_4FDD7E17329F.label = Playground
+panorama_1A382652_0BD6_6661_41A3_25AFA1AE131F.label = Playground
+panorama_1A39283B_0BD6_AA27_4180_460BA52D8A74.label = Playground
+panorama_1A38431F_0BD6_7E1F_41A1_5C08FCD34517.label = Playground
+panorama_188331D3_0BD6_BA60_4190_C58858B070EA.label = Playground
+panorama_1A381F43_0BD6_A660_4196_ABDFCE80A5B9.label = Playground
+panorama_1A02896F_0BDB_EA3F_41A3_15BED2EB6DF0.label = Pátio Coberto Edu. Infantil
+panorama_1805F2F9_0BDB_DE20_419E_CF0A62463F30.label = Pátio Coberto Edu. Infantil
+panorama_1E4D4292_0BBB_DEE1_41A5_FCC46110C698.label = Recepção
+panorama_1F50E2D8_0BBB_BE61_415F_82B991675100.label = Recepção
+panorama_1F53DDCE_0BBB_AA61_4195_53F9CE17AEA4.label = Recepção
+panorama_1FE6AD1D_0BEB_EBE3_41A5_7DC667A369FC.label = Refeitório Infantil
+panorama_1EBF29BA_0BBA_EA20_416E_AF5A3B13ED30.label = Restaurante
+panorama_1D428199_0BBA_DAE3_41A1_2BA3A294EB8B.label = Restaurante
+panorama_1FE9A186_0BFB_DAE1_417D_4A1B70631DA6.label = Sala 06
+panorama_19730EC7_0BFB_E66F_41A2_D7936843A94A.label = Sala 06
+panorama_1FE71CE1_0BF9_AA23_4186_9986982092A8.label = Sala 5 Infantil
+panorama_1971332B_0BF9_DE20_41A5_CD6641210F15.label = Sala 5 Infantil
+panorama_1E8DD41E_0BB6_F9E1_419B_33D6803AD44E.label = Sala Multiuso
+panorama_1E8D3A4E_0BB6_EE60_4191_26F49A9DCA9A.label = Sala Multiuso
+panorama_1E4D0BD5_0BB6_EE60_41A1_31B3DDDECAD1.label = Sala Multiuso
+panorama_1CD1F974_0BBA_6A20_4176_5AC7A1A53202.label = Sala de Vídeo
+panorama_1E8B489E_0BBA_6AE0_418E_DB39F6228F46.label = Sala de Vídeo
+panorama_07490F08_0BA9_A7E1_4188_B33A96D60F8C.label = Vista Aérea
+panorama_074B1AC8_0BA9_EE60_417C_F95F62A7546E.label = Vista Aérea
+panorama_0638CADD_0BA9_AE60_418E_AA507B7C9D6E.label = Vista Aérea
+
+## Tour
+
+### Description
+tour.description = Tour Virtual 360 graus 
+
+### Title
+tour.name = Centro de Atividades Araguáina

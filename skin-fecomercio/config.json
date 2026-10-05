@@ -1,0 +1,760 @@
+{
+  "version": "4.3.0-araguaina-20261005",
+  "brand": {
+    "systemName": "SISTEMA FECOMÉRCIO",
+    "tourName": "Centro de Atividades · Araguaína - TO",
+    "unitName": "Centro de Atividades Sesc Araguaína",
+    "logo": "skin-fecomercio/assets/sesc-1x1-colorido.png",
+    "cornerLogo": "skin-fecomercio/assets/sesc-1x1-colorido.png",
+    "tagline": "Cuidar das pessoas é a nossa essência.",
+    "colors": {
+      "blue": "#004C99",
+      "blueDark": "#003865",
+      "blueLight": "#0B78BF",
+      "yellow": "#F6BE00",
+      "gray": "#747678",
+      "white": "#FFFFFF"
+    }
+  },
+  "homeIndex": 0,
+  "intro": {
+    "eyebrow": "360° · VISITA VIRTUAL",
+    "title": "Explore do seu jeito.",
+    "description": "Visite o Centro de Atividades Sesc Araguaína. Escolha como navegar e explore os ambientes da unidade.",
+    "background": "media/panorama_074B1AC8_0BA9_EE60_417C_F95F62A7546E_hd_t.jpg",
+    "desktopGuide": "skin-fecomercio/assets/mouse-desktop.apng.png",
+    "mobileGuide": "skin-fecomercio/assets/gestos-mobile.apng.png"
+  },
+  "map": {
+    "title": "Localização · Centro de Atividades Sesc Araguaína",
+    "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3958.3529364130886!2d-48.22029328550042!3d-7.200512694801598!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x92d90dc195638f6d%3A0xd1efe6d545d2e5bd!2sCentro+de+Atividades+Sesc+Aragua%C3%ADna+-+Anselmo+da+Silva+Moraes!5e0!3m2!1spt-BR!2sbr!4v1559191545448!5m2!1spt-BR!2sbr"
+  },
+  "contact": {
+    "phoneLabel": "(63) 3219-9100",
+    "phoneUrl": "tel:+556332199100",
+    "website": "https://www.sescto.com.br/"
+  },
+  "social": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/sesctocantins/",
+      "accent": "#E1306C"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/sescto",
+      "accent": "#1877F2"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/company/sesctocantins/?originalSubdomain=br",
+      "accent": "#0A66C2"
+    }
+  ],
+  "groups": [
+    {
+      "id": "entrada",
+      "number": "01",
+      "short": "Entrada",
+      "title": "Entrada & Recepção",
+      "eyebrow": "Acessos e convivência",
+      "description": "Conheça as vistas aéreas, os acessos e a recepção da unidade.",
+      "accent": "#0B78BF",
+      "surface": "#DDF2FF",
+      "destinations": [
+        {
+          "label": "Vista Aérea · 01",
+          "index": 0
+        },
+        {
+          "label": "Entrada Lateral Prédio · 01",
+          "index": 41
+        },
+        {
+          "label": "Recepção · 01",
+          "index": 75
+        },
+        {
+          "label": "Hall · 01",
+          "index": 59
+        }
+      ]
+    },
+    {
+      "id": "esporte",
+      "number": "02",
+      "short": "Esporte",
+      "title": "Esporte & Lazer",
+      "eyebrow": "Movimento e bem-estar",
+      "description": "Explore academia, ginásio, Pilates, piscinas e espaços de atividades físicas.",
+      "accent": "#49A942",
+      "surface": "#E3F5DE",
+      "destinations": [
+        {
+          "label": "Academia 2º andar · 01",
+          "index": 3
+        },
+        {
+          "label": "Academia 3º andar · 01",
+          "index": 8
+        },
+        {
+          "label": "Ginásio · 01",
+          "index": 56
+        },
+        {
+          "label": "Karatê Funcional · 01",
+          "index": 62
+        },
+        {
+          "label": "Pilates · 01",
+          "index": 65
+        },
+        {
+          "label": "Piscina Infantil · 01",
+          "index": 67
+        },
+        {
+          "label": "Piscina Adulto · 01",
+          "index": 70
+        },
+        {
+          "label": "Piscina Hidroginástica · 01",
+          "index": 73
+        }
+      ]
+    },
+    {
+      "id": "cultura",
+      "number": "03",
+      "short": "Cultura",
+      "title": "Cultura & Atividades",
+      "eyebrow": "Espaços de encontro",
+      "description": "Visite o auditório, a sala de vídeo e a sala multiuso.",
+      "accent": "#8C59AD",
+      "surface": "#F2E6FA",
+      "destinations": [
+        {
+          "label": "Auditório Cine · 01",
+          "index": 13
+        },
+        {
+          "label": "Sala de Vídeo · 01",
+          "index": 80
+        },
+        {
+          "label": "Sala Multiuso · 01",
+          "index": 82
+        }
+      ]
+    },
+    {
+      "id": "odonto",
+      "number": "04",
+      "short": "Odontologia",
+      "title": "Odontologia",
+      "eyebrow": "Saúde e cuidado",
+      "description": "Conheça os consultórios odontológicos da unidade.",
+      "accent": "#12AFC2",
+      "surface": "#DDFBFC",
+      "destinations": [
+        {
+          "label": "Consultório Odontológico · 01",
+          "index": 17
+        }
+      ]
+    },
+    {
+      "id": "escola",
+      "number": "05",
+      "short": "Educação",
+      "title": "Educação",
+      "eyebrow": "Aprender e descobrir",
+      "description": "Percorra as salas, a brinquedoteca e os ambientes da educação infantil.",
+      "accent": "#E4B400",
+      "surface": "#FFF8C7",
+      "destinations": [
+        {
+          "label": "Hall de Entrada Educação Infantil · 01",
+          "index": 24
+        },
+        {
+          "label": "Brinquedoteca · 01",
+          "index": 22
+        },
+        {
+          "label": "Pátio Coberto Educação Infantil · 01",
+          "index": 28
+        },
+        {
+          "label": "Playground · 01",
+          "index": 30
+        },
+        {
+          "label": "Refeitório Infantil",
+          "index": 36
+        },
+        {
+          "label": "Sala 5 Infantil · 01",
+          "index": 37
+        },
+        {
+          "label": "Sala 06 · 01",
+          "index": 39
+        },
+        {
+          "label": "Escola SESC sala 1 · 01",
+          "index": 45
+        },
+        {
+          "label": "Escola SESC sala 2 · 01",
+          "index": 48
+        },
+        {
+          "label": "Escola SESC sala 3 · 01",
+          "index": 50
+        },
+        {
+          "label": "Escola SESC sala 4 · 01",
+          "index": 52
+        },
+        {
+          "label": "Escola SESC sala 6 · 01",
+          "index": 54
+        }
+      ]
+    },
+    {
+      "id": "alimentacao",
+      "number": "06",
+      "short": "Alimentação",
+      "title": "Alimentação",
+      "eyebrow": "Alimentação e convivência",
+      "description": "Visite o restaurante e a lanchonete da unidade.",
+      "accent": "#F08A19",
+      "surface": "#FFF0D8",
+      "destinations": [
+        {
+          "label": "Restaurante · 01",
+          "index": 78
+        },
+        {
+          "label": "Lanchonete",
+          "index": 64
+        }
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "index": 0,
+      "name": "Vista Aérea · 01",
+      "group": "entrada",
+      "thumb": "media/panorama_074B1AC8_0BA9_EE60_417C_F95F62A7546E_t.webp"
+    },
+    {
+      "index": 1,
+      "name": "Vista Aérea · 02",
+      "group": "entrada",
+      "thumb": "media/panorama_07490F08_0BA9_A7E1_4188_B33A96D60F8C_t.webp"
+    },
+    {
+      "index": 2,
+      "name": "Vista Aérea · 03",
+      "group": "entrada",
+      "thumb": "media/panorama_0638CADD_0BA9_AE60_418E_AA507B7C9D6E_t.webp"
+    },
+    {
+      "index": 3,
+      "name": "Academia 2º andar · 01",
+      "group": "esporte",
+      "thumb": "media/panorama_1AEC667E_0BB9_A620_418F_B35E4AD12015_t.webp"
+    },
+    {
+      "index": 4,
+      "name": "Academia 2º andar · 02",
+      "group": "esporte",
+      "thumb": "media/panorama_1B908678_0BB9_E620_41A3_6390CCE14314_t.webp"
+    },
+    {
+      "index": 5,
+      "name": "Academia 2º andar · 03",
+      "group": "esporte",
+      "thumb": "media/panorama_1BAEA06E_0BB9_FA20_41A2_600D1508BAF1_t.webp"
+    },
+    {
+      "index": 6,
+      "name": "Academia 2º andar · 04",
+      "group": "esporte",
+      "thumb": "media/panorama_1BAE6674_0BB9_E620_41A3_55E523A452A2_t.webp"
+    },
+    {
+      "index": 7,
+      "name": "Academia 2º andar · 05",
+      "group": "esporte",
+      "thumb": "media/panorama_1BAE4CDD_0BB9_EA63_4136_6019EFE11C1C_t.webp"
+    },
+    {
+      "index": 8,
+      "name": "Academia 3º andar · 01",
+      "group": "esporte",
+      "thumb": "media/panorama_19B71A9B_0BBE_6EE7_4177_6BC924D168A2_t.webp"
+    },
+    {
+      "index": 9,
+      "name": "Academia 3º andar · 02",
+      "group": "esporte",
+      "thumb": "media/panorama_1BC3010B_0BBE_7BE7_419E_278EBB2FB377_t.webp"
+    },
+    {
+      "index": 10,
+      "name": "Academia 3º andar · 03",
+      "group": "esporte",
+      "thumb": "media/panorama_1BD217AF_0BBE_663F_4182_9EE9A56FA3C1_t.webp"
+    },
+    {
+      "index": 11,
+      "name": "Academia 3º andar · 04",
+      "group": "esporte",
+      "thumb": "media/panorama_1BD25E85_0BBE_66E3_41A2_0B47A8699CD7_t.webp"
+    },
+    {
+      "index": 12,
+      "name": "Academia 3º andar · 05",
+      "group": "esporte",
+      "thumb": "media/panorama_1BD2758E_0BBE_5AE0_41A7_3C526B99EEAC_t.webp"
+    },
+    {
+      "index": 13,
+      "name": "Auditório Cine · 01",
+      "group": "cultura",
+      "thumb": "media/panorama_1B7291C5_0BB6_DA60_418F_541CE87C5808_t.webp"
+    },
+    {
+      "index": 14,
+      "name": "Auditório Cine · 02",
+      "group": "cultura",
+      "thumb": "media/panorama_1B3DAA45_0BB6_EE63_4193_57374F2A6930_t.webp"
+    },
+    {
+      "index": 15,
+      "name": "Auditório Cine · 03",
+      "group": "cultura",
+      "thumb": "media/panorama_1B3DF0F3_0BB6_FA20_418D_4B0130CC44DD_t.webp"
+    },
+    {
+      "index": 16,
+      "name": "Auditório Cine · 04",
+      "group": "cultura",
+      "thumb": "media/panorama_1B3DB7EB_0BB6_E627_4191_6209841CFCF8_t.webp"
+    },
+    {
+      "index": 17,
+      "name": "Consultório Odontológico · 01",
+      "group": "odonto",
+      "thumb": "media/panorama_1895AB3C_0BD6_6E21_4161_00FFC4EB9B9D_t.webp"
+    },
+    {
+      "index": 18,
+      "name": "Consultório Odontológico · 02",
+      "group": "odonto",
+      "thumb": "media/panorama_1B0EA2FE_0BD6_5E21_41A5_16B3A6164CDE_t.webp"
+    },
+    {
+      "index": 19,
+      "name": "Consultório Odontológico · 03",
+      "group": "odonto",
+      "thumb": "media/panorama_1B083936_0BD6_AA20_4195_BF859EBA739E_t.webp"
+    },
+    {
+      "index": 20,
+      "name": "Banheiro PCD · Educação Infantil · 01",
+      "group": "escola",
+      "thumb": "media/panorama_1AB2C052_0BD9_FA60_41A5_214EF1106778_t.webp"
+    },
+    {
+      "index": 21,
+      "name": "Banheiro PCD · Educação Infantil · 02",
+      "group": "escola",
+      "thumb": "media/panorama_1B051CF4_0BD9_EA21_419C_58B2BAC871D0_t.webp"
+    },
+    {
+      "index": 22,
+      "name": "Brinquedoteca · 01",
+      "group": "escola",
+      "thumb": "media/panorama_192FE3C5_0BDA_5E60_419C_BC2F12760D53_t.webp"
+    },
+    {
+      "index": 23,
+      "name": "Brinquedoteca · 02",
+      "group": "escola",
+      "thumb": "media/panorama_1B2AB437_0BDA_BA2F_4192_C81F78C77379_t.webp"
+    },
+    {
+      "index": 24,
+      "name": "Hall de Entrada Educação Infantil · 01",
+      "group": "escola",
+      "thumb": "media/panorama_1A1E9D3A_0BDE_EA20_41A7_507526898130_t.webp"
+    },
+    {
+      "index": 25,
+      "name": "Hall de Entrada Educação Infantil · 02",
+      "group": "escola",
+      "thumb": "media/panorama_1B29CC16_0BDE_E9E1_41A6_04C92EF01CB2_t.webp"
+    },
+    {
+      "index": 26,
+      "name": "Hall de Entrada Educação Infantil · 03",
+      "group": "escola",
+      "thumb": "media/panorama_1B288B0E_0BDE_AFE0_41A4_9A82D460F953_t.webp"
+    },
+    {
+      "index": 27,
+      "name": "Hall de Entrada Educação Infantil · 04",
+      "group": "escola",
+      "thumb": "media/panorama_1B2931FC_0BDE_BA21_41A5_357450817B9E_t.webp"
+    },
+    {
+      "index": 28,
+      "name": "Pátio Coberto Educação Infantil · 01",
+      "group": "escola",
+      "thumb": "media/panorama_1805F2F9_0BDB_DE20_419E_CF0A62463F30_t.webp"
+    },
+    {
+      "index": 29,
+      "name": "Pátio Coberto Educação Infantil · 02",
+      "group": "escola",
+      "thumb": "media/panorama_1A02896F_0BDB_EA3F_41A3_15BED2EB6DF0_t.webp"
+    },
+    {
+      "index": 30,
+      "name": "Playground · 01",
+      "group": "escola",
+      "thumb": "media/panorama_188331D3_0BD6_BA60_4190_C58858B070EA_t.webp"
+    },
+    {
+      "index": 31,
+      "name": "Playground · 02",
+      "group": "escola",
+      "thumb": "media/panorama_1A39283B_0BD6_AA27_4180_460BA52D8A74_t.webp"
+    },
+    {
+      "index": 32,
+      "name": "Playground · 03",
+      "group": "escola",
+      "thumb": "media/panorama_1A381F43_0BD6_A660_4196_ABDFCE80A5B9_t.webp"
+    },
+    {
+      "index": 33,
+      "name": "Playground · 04",
+      "group": "escola",
+      "thumb": "media/panorama_1A382652_0BD6_6661_41A3_25AFA1AE131F_t.webp"
+    },
+    {
+      "index": 34,
+      "name": "Playground · 05",
+      "group": "escola",
+      "thumb": "media/panorama_1A380CCF_0BD6_6A60_4188_4FDD7E17329F_t.webp"
+    },
+    {
+      "index": 35,
+      "name": "Playground · 06",
+      "group": "escola",
+      "thumb": "media/panorama_1A38431F_0BD6_7E1F_41A1_5C08FCD34517_t.webp"
+    },
+    {
+      "index": 36,
+      "name": "Refeitório Infantil",
+      "group": "escola",
+      "thumb": "media/panorama_1FE6AD1D_0BEB_EBE3_41A5_7DC667A369FC_t.webp"
+    },
+    {
+      "index": 37,
+      "name": "Sala 5 Infantil · 01",
+      "group": "escola",
+      "thumb": "media/panorama_1FE71CE1_0BF9_AA23_4186_9986982092A8_t.webp"
+    },
+    {
+      "index": 38,
+      "name": "Sala 5 Infantil · 02",
+      "group": "escola",
+      "thumb": "media/panorama_1971332B_0BF9_DE20_41A5_CD6641210F15_t.webp"
+    },
+    {
+      "index": 39,
+      "name": "Sala 06 · 01",
+      "group": "escola",
+      "thumb": "media/panorama_1FE9A186_0BFB_DAE1_417D_4A1B70631DA6_t.webp"
+    },
+    {
+      "index": 40,
+      "name": "Sala 06 · 02",
+      "group": "escola",
+      "thumb": "media/panorama_19730EC7_0BFB_E66F_41A2_D7936843A94A_t.webp"
+    },
+    {
+      "index": 41,
+      "name": "Entrada Lateral Prédio · 01",
+      "group": "entrada",
+      "thumb": "media/panorama_1FA9ECA0_0BFE_6A21_4176_C76E14B896FC_t.webp"
+    },
+    {
+      "index": 42,
+      "name": "Entrada Lateral Prédio · 02",
+      "group": "entrada",
+      "thumb": "media/panorama_190FFAD8_0BFE_6E60_418F_63C7D589854D_t.webp"
+    },
+    {
+      "index": 43,
+      "name": "Entrada Lateral Prédio · 03",
+      "group": "entrada",
+      "thumb": "media/panorama_190D33DC_0BFE_5E61_416F_BFC8E920F0DE_t.webp"
+    },
+    {
+      "index": 44,
+      "name": "Entrada Lateral Prédio · 04",
+      "group": "entrada",
+      "thumb": "media/panorama_190D7A97_0BFF_AEEF_41A3_348865C01D17_t.webp"
+    },
+    {
+      "index": 45,
+      "name": "Escola SESC sala 1 · 01",
+      "group": "escola",
+      "thumb": "media/panorama_1F020D77_0BF6_6A20_41A3_5AEEAAA79D2D_t.webp"
+    },
+    {
+      "index": 46,
+      "name": "Escola SESC sala 1 · 02",
+      "group": "escola",
+      "thumb": "media/panorama_1923E959_0BF7_AA63_419D_6C1C2808DBA3_t.webp"
+    },
+    {
+      "index": 47,
+      "name": "Escola SESC sala 1 · 03",
+      "group": "escola",
+      "thumb": "media/panorama_19222F6E_0BF7_A621_418A_B90B720F14BF_t.webp"
+    },
+    {
+      "index": 48,
+      "name": "Escola SESC sala 2 · 01",
+      "group": "escola",
+      "thumb": "media/panorama_18E8ACB6_0BEA_AA20_4192_F224DCDAED0A_t.webp"
+    },
+    {
+      "index": 49,
+      "name": "Escola SESC sala 2 · 02",
+      "group": "escola",
+      "thumb": "media/panorama_192C9ED5_0BEA_6663_4182_F59D3314AF32_t.webp"
+    },
+    {
+      "index": 50,
+      "name": "Escola SESC sala 3 · 01",
+      "group": "escola",
+      "thumb": "media/panorama_18BCD28F_0BE9_BEFF_419E_7C0D0BAB2930_t.webp"
+    },
+    {
+      "index": 51,
+      "name": "Escola SESC sala 3 · 02",
+      "group": "escola",
+      "thumb": "media/panorama_18F96CC8_0BE9_AA60_41A7_891B0D9966A2_t.webp"
+    },
+    {
+      "index": 52,
+      "name": "Escola SESC sala 4 · 01",
+      "group": "escola",
+      "thumb": "media/panorama_1F3FADEF_0BEE_AA3F_41A7_82212FB072EA_t.webp"
+    },
+    {
+      "index": 53,
+      "name": "Escola SESC sala 4 · 02",
+      "group": "escola",
+      "thumb": "media/panorama_188E5C72_0BEE_AA21_418C_C4C13F8A603E_t.webp"
+    },
+    {
+      "index": 54,
+      "name": "Escola SESC sala 6 · 01",
+      "group": "escola",
+      "thumb": "media/panorama_1F016690_0BEA_A6E0_4191_06F9F9B0D692_t.webp"
+    },
+    {
+      "index": 55,
+      "name": "Escola SESC sala 6 · 02",
+      "group": "escola",
+      "thumb": "media/panorama_18B7E4B4_0BEA_5A21_4199_102E1AB22536_t.webp"
+    },
+    {
+      "index": 56,
+      "name": "Ginásio · 01",
+      "group": "esporte",
+      "thumb": "media/panorama_1ED4E63C_0BD6_6621_419D_89106B90E145_t.webp"
+    },
+    {
+      "index": 57,
+      "name": "Ginásio · 02",
+      "group": "esporte",
+      "thumb": "media/panorama_18404EB6_0BD6_6621_41A3_96B5A67B1898_t.webp"
+    },
+    {
+      "index": 58,
+      "name": "Ginásio · 03",
+      "group": "esporte",
+      "thumb": "media/panorama_187E952F_0BD6_7A20_41A5_345E440070CA_t.webp"
+    },
+    {
+      "index": 59,
+      "name": "Hall · 01",
+      "group": "entrada",
+      "thumb": "media/panorama_1FAD866E_0BDB_A621_4192_E5CFBB2BBFBB_t.webp"
+    },
+    {
+      "index": 60,
+      "name": "Hall · 02",
+      "group": "entrada",
+      "thumb": "media/panorama_1FE43D1A_0BDB_ABE0_4193_9FC48F558355_t.webp"
+    },
+    {
+      "index": 61,
+      "name": "Hall · 03",
+      "group": "entrada",
+      "thumb": "media/panorama_1FE597F0_0BDA_6620_4166_C0BDC5FB309C_t.webp"
+    },
+    {
+      "index": 62,
+      "name": "Karatê Funcional · 01",
+      "group": "esporte",
+      "thumb": "media/panorama_1D78377A_0BDA_6621_4190_13C4F68CA4B1_t.webp"
+    },
+    {
+      "index": 63,
+      "name": "Karatê Funcional · 02",
+      "group": "esporte",
+      "thumb": "media/panorama_1FC67E11_0BDA_69E3_4198_59F8EAEF8A4F_t.webp"
+    },
+    {
+      "index": 64,
+      "name": "Lanchonete",
+      "group": "alimentacao",
+      "thumb": "media/panorama_1DC10780_0BD6_66E0_4199_BB064BF02C30_t.webp"
+    },
+    {
+      "index": 65,
+      "name": "Pilates · 01",
+      "group": "esporte",
+      "thumb": "media/panorama_1E2A496A_0BD6_6A20_4194_C7253CFBEDDE_t.webp"
+    },
+    {
+      "index": 66,
+      "name": "Pilates · 02",
+      "group": "esporte",
+      "thumb": "media/panorama_1FC4F59C_0BD6_7AE0_4170_09F305131A6F_t.webp"
+    },
+    {
+      "index": 67,
+      "name": "Piscina Infantil · 01",
+      "group": "esporte",
+      "thumb": "media/panorama_1E0F6006_0BAA_F9E1_417D_51FF76F7D795_t.webp"
+    },
+    {
+      "index": 68,
+      "name": "Piscina Infantil · 02",
+      "group": "esporte",
+      "thumb": "media/panorama_1FA22C97_0BAA_EAE0_419A_F98F60892BF1_t.webp"
+    },
+    {
+      "index": 69,
+      "name": "Piscina Infantil · 03",
+      "group": "esporte",
+      "thumb": "media/panorama_1FAC8321_0BAA_DE20_4182_093DE161D522_t.webp"
+    },
+    {
+      "index": 70,
+      "name": "Piscina Adulto · 01",
+      "group": "esporte",
+      "thumb": "media/panorama_1FA349BF_0BAA_AA20_4193_C08582051C9A_t.webp"
+    },
+    {
+      "index": 71,
+      "name": "Piscina Adulto · 02",
+      "group": "esporte",
+      "thumb": "media/panorama_1FAC8052_0BAA_BA61_41A3_5148C82749E3_t.webp"
+    },
+    {
+      "index": 72,
+      "name": "Piscina Adulto · 03",
+      "group": "esporte",
+      "thumb": "media/panorama_1FA3273F_0BAA_A61F_4197_CDA2BABCC754_t.webp"
+    },
+    {
+      "index": 73,
+      "name": "Piscina Hidroginástica · 01",
+      "group": "esporte",
+      "thumb": "media/panorama_1D0EE27C_0BB6_BE21_41A3_EEA693385C79_t.webp"
+    },
+    {
+      "index": 74,
+      "name": "Piscina Hidroginástica · 02",
+      "group": "esporte",
+      "thumb": "media/panorama_1F50F8BA_0BB6_AA21_414F_0B4057CF1A10_t.webp"
+    },
+    {
+      "index": 75,
+      "name": "Recepção · 01",
+      "group": "entrada",
+      "thumb": "media/panorama_1E4D4292_0BBB_DEE1_41A5_FCC46110C698_t.webp"
+    },
+    {
+      "index": 76,
+      "name": "Recepção · 02",
+      "group": "entrada",
+      "thumb": "media/panorama_1F50E2D8_0BBB_BE61_415F_82B991675100_t.webp"
+    },
+    {
+      "index": 77,
+      "name": "Recepção · 03",
+      "group": "entrada",
+      "thumb": "media/panorama_1F53DDCE_0BBB_AA61_4195_53F9CE17AEA4_t.webp"
+    },
+    {
+      "index": 78,
+      "name": "Restaurante · 01",
+      "group": "alimentacao",
+      "thumb": "media/panorama_1D428199_0BBA_DAE3_41A1_2BA3A294EB8B_t.webp"
+    },
+    {
+      "index": 79,
+      "name": "Restaurante · 02",
+      "group": "alimentacao",
+      "thumb": "media/panorama_1EBF29BA_0BBA_EA20_416E_AF5A3B13ED30_t.webp"
+    },
+    {
+      "index": 80,
+      "name": "Sala de Vídeo · 01",
+      "group": "cultura",
+      "thumb": "media/panorama_1CD1F974_0BBA_6A20_4176_5AC7A1A53202_t.webp"
+    },
+    {
+      "index": 81,
+      "name": "Sala de Vídeo · 02",
+      "group": "cultura",
+      "thumb": "media/panorama_1E8B489E_0BBA_6AE0_418E_DB39F6228F46_t.webp"
+    },
+    {
+      "index": 82,
+      "name": "Sala Multiuso · 01",
+      "group": "cultura",
+      "thumb": "media/panorama_1E4D0BD5_0BB6_EE60_41A1_31B3DDDECAD1_t.webp"
+    },
+    {
+      "index": 83,
+      "name": "Sala Multiuso · 02",
+      "group": "cultura",
+      "thumb": "media/panorama_1E8DD41E_0BB6_F9E1_419B_33D6803AD44E_t.webp"
+    },
+    {
+      "index": 84,
+      "name": "Sala Multiuso · 03",
+      "group": "cultura",
+      "thumb": "media/panorama_1E8D3A4E_0BB6_EE60_4191_26F49A9DCA9A_t.webp"
+    }
+  ]
+}
