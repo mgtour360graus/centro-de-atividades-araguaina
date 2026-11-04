@@ -1,9 +1,9 @@
 {
-  "version": "4.3.0-araguaina-20261005",
+  "version": "4.3.6-araguaina-native-safe-r1",
   "brand": {
     "systemName": "SISTEMA FECOMÉRCIO",
-    "tourName": "Centro de Atividades · Araguaína - TO",
-    "unitName": "Centro de Atividades Sesc Araguaína",
+    "tourName": "Centro de Atividades Sesc Araguaína - Anselmo da Silva Moraes",
+    "unitName": "Centro de Atividades Sesc Araguaína - Anselmo da Silva Moraes",
     "logo": "skin-fecomercio/assets/sesc-1x1-colorido.png",
     "cornerLogo": "skin-fecomercio/assets/sesc-1x1-colorido.png",
     "tagline": "Cuidar das pessoas é a nossa essência.",
@@ -20,13 +20,13 @@
   "intro": {
     "eyebrow": "360° · VISITA VIRTUAL",
     "title": "Explore do seu jeito.",
-    "description": "Visite o Centro de Atividades Sesc Araguaína. Escolha como navegar e explore os ambientes da unidade.",
+    "description": "Visite o Centro de Atividades Sesc Araguaína - Anselmo da Silva Moraes. Escolha como navegar e explore os ambientes da unidade.",
     "background": "media/panorama_074B1AC8_0BA9_EE60_417C_F95F62A7546E_hd_t.jpg",
     "desktopGuide": "skin-fecomercio/assets/mouse-desktop.apng.png",
     "mobileGuide": "skin-fecomercio/assets/gestos-mobile.apng.png"
   },
   "map": {
-    "title": "Localização · Centro de Atividades Sesc Araguaína",
+    "title": "Localização · Centro de Atividades Sesc Araguaína - Anselmo da Silva Moraes",
     "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3958.3529364130886!2d-48.22029328550042!3d-7.200512694801598!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x92d90dc195638f6d%3A0xd1efe6d545d2e5bd!2sCentro+de+Atividades+Sesc+Aragua%C3%ADna+-+Anselmo+da+Silva+Moraes!5e0!3m2!1spt-BR!2sbr!4v1559191545448!5m2!1spt-BR!2sbr"
   },
   "contact": {
@@ -53,19 +53,31 @@
   ],
   "groups": [
     {
-      "id": "entrada",
+      "id": "geral",
       "number": "01",
-      "short": "Entrada",
-      "title": "Entrada & Recepção",
-      "eyebrow": "Acessos e convivência",
-      "description": "Conheça as vistas aéreas, os acessos e a recepção da unidade.",
+      "short": "Geral",
+      "title": "Visão Geral",
+      "eyebrow": "Conheça a unidade",
+      "description": "Veja a unidade e sua localização a partir das vistas aéreas.",
       "accent": "#0B78BF",
       "surface": "#DDF2FF",
       "destinations": [
         {
           "label": "Vista Aérea · 01",
           "index": 0
-        },
+        }
+      ]
+    },
+    {
+      "id": "entrada",
+      "number": "02",
+      "short": "Entrada",
+      "title": "Entrada & Recepção",
+      "eyebrow": "Acessos e convivência",
+      "description": "Conheça os acessos e a recepção da unidade.",
+      "accent": "#0B78BF",
+      "surface": "#DDF2FF",
+      "destinations": [
         {
           "label": "Entrada Lateral Prédio · 01",
           "index": 41
@@ -73,16 +85,12 @@
         {
           "label": "Recepção · 01",
           "index": 75
-        },
-        {
-          "label": "Hall · 01",
-          "index": 59
         }
       ]
     },
     {
       "id": "esporte",
-      "number": "02",
+      "number": "03",
       "short": "Esporte",
       "title": "Esporte & Lazer",
       "eyebrow": "Movimento e bem-estar",
@@ -126,33 +134,25 @@
     },
     {
       "id": "cultura",
-      "number": "03",
+      "number": "04",
       "short": "Cultura",
-      "title": "Cultura & Atividades",
+      "title": "Cultura",
       "eyebrow": "Espaços de encontro",
-      "description": "Visite o auditório, a sala de vídeo e a sala multiuso.",
+      "description": "Visite o auditório da unidade.",
       "accent": "#8C59AD",
       "surface": "#F2E6FA",
       "destinations": [
         {
           "label": "Auditório Cine · 01",
           "index": 13
-        },
-        {
-          "label": "Sala de Vídeo · 01",
-          "index": 80
-        },
-        {
-          "label": "Sala Multiuso · 01",
-          "index": 82
         }
       ]
     },
     {
-      "id": "odonto",
-      "number": "04",
-      "short": "Odontologia",
-      "title": "Odontologia",
+      "id": "saude",
+      "number": "05",
+      "short": "Saúde",
+      "title": "Saúde",
       "eyebrow": "Saúde e cuidado",
       "description": "Conheça os consultórios odontológicos da unidade.",
       "accent": "#12AFC2",
@@ -166,11 +166,11 @@
     },
     {
       "id": "escola",
-      "number": "05",
+      "number": "06",
       "short": "Educação",
       "title": "Educação",
       "eyebrow": "Aprender e descobrir",
-      "description": "Percorra as salas, a brinquedoteca e os ambientes da educação infantil.",
+      "description": "Percorra as salas, a brinquedoteca, a biblioteca e os ambientes da Educação Infantil e do Ensino Fundamental.",
       "accent": "#E4B400",
       "surface": "#FFF8C7",
       "destinations": [
@@ -187,7 +187,7 @@
           "index": 28
         },
         {
-          "label": "Playground · 01",
+          "label": "Parquinho · 01",
           "index": 30
         },
         {
@@ -221,23 +221,35 @@
         {
           "label": "Escola SESC sala 6 · 01",
           "index": 54
+        },
+        {
+          "label": "Hall do Ensino Fundamental I · 01",
+          "index": 59
+        },
+        {
+          "label": "Refeitório do Ensino Fundamental · 01",
+          "index": 78
+        },
+        {
+          "label": "Sala de Vídeo · 01",
+          "index": 80
+        },
+        {
+          "label": "Biblioteca · 01",
+          "index": 82
         }
       ]
     },
     {
       "id": "alimentacao",
-      "number": "06",
+      "number": "07",
       "short": "Alimentação",
       "title": "Alimentação",
       "eyebrow": "Alimentação e convivência",
-      "description": "Visite o restaurante e a lanchonete da unidade.",
+      "description": "Visite a lanchonete da unidade.",
       "accent": "#F08A19",
       "surface": "#FFF0D8",
       "destinations": [
-        {
-          "label": "Restaurante · 01",
-          "index": 78
-        },
         {
           "label": "Lanchonete",
           "index": 64
@@ -249,19 +261,19 @@
     {
       "index": 0,
       "name": "Vista Aérea · 01",
-      "group": "entrada",
+      "group": "geral",
       "thumb": "media/panorama_074B1AC8_0BA9_EE60_417C_F95F62A7546E_t.webp"
     },
     {
       "index": 1,
       "name": "Vista Aérea · 02",
-      "group": "entrada",
+      "group": "geral",
       "thumb": "media/panorama_07490F08_0BA9_A7E1_4188_B33A96D60F8C_t.webp"
     },
     {
       "index": 2,
       "name": "Vista Aérea · 03",
-      "group": "entrada",
+      "group": "geral",
       "thumb": "media/panorama_0638CADD_0BA9_AE60_418E_AA507B7C9D6E_t.webp"
     },
     {
@@ -351,19 +363,19 @@
     {
       "index": 17,
       "name": "Consultório Odontológico · 01",
-      "group": "odonto",
+      "group": "saude",
       "thumb": "media/panorama_1895AB3C_0BD6_6E21_4161_00FFC4EB9B9D_t.webp"
     },
     {
       "index": 18,
       "name": "Consultório Odontológico · 02",
-      "group": "odonto",
+      "group": "saude",
       "thumb": "media/panorama_1B0EA2FE_0BD6_5E21_41A5_16B3A6164CDE_t.webp"
     },
     {
       "index": 19,
       "name": "Consultório Odontológico · 03",
-      "group": "odonto",
+      "group": "saude",
       "thumb": "media/panorama_1B083936_0BD6_AA20_4195_BF859EBA739E_t.webp"
     },
     {
@@ -428,37 +440,37 @@
     },
     {
       "index": 30,
-      "name": "Playground · 01",
+      "name": "Parquinho · 01",
       "group": "escola",
       "thumb": "media/panorama_188331D3_0BD6_BA60_4190_C58858B070EA_t.webp"
     },
     {
       "index": 31,
-      "name": "Playground · 02",
+      "name": "Parquinho · 02",
       "group": "escola",
       "thumb": "media/panorama_1A39283B_0BD6_AA27_4180_460BA52D8A74_t.webp"
     },
     {
       "index": 32,
-      "name": "Playground · 03",
+      "name": "Parquinho · 03",
       "group": "escola",
       "thumb": "media/panorama_1A381F43_0BD6_A660_4196_ABDFCE80A5B9_t.webp"
     },
     {
       "index": 33,
-      "name": "Playground · 04",
+      "name": "Parquinho · 04",
       "group": "escola",
       "thumb": "media/panorama_1A382652_0BD6_6661_41A3_25AFA1AE131F_t.webp"
     },
     {
       "index": 34,
-      "name": "Playground · 05",
+      "name": "Parquinho · 05",
       "group": "escola",
       "thumb": "media/panorama_1A380CCF_0BD6_6A60_4188_4FDD7E17329F_t.webp"
     },
     {
       "index": 35,
-      "name": "Playground · 06",
+      "name": "Parquinho · 06",
       "group": "escola",
       "thumb": "media/panorama_1A38431F_0BD6_7E1F_41A1_5C08FCD34517_t.webp"
     },
@@ -602,20 +614,20 @@
     },
     {
       "index": 59,
-      "name": "Hall · 01",
-      "group": "entrada",
+      "name": "Hall do Ensino Fundamental I · 01",
+      "group": "escola",
       "thumb": "media/panorama_1FAD866E_0BDB_A621_4192_E5CFBB2BBFBB_t.webp"
     },
     {
       "index": 60,
-      "name": "Hall · 02",
-      "group": "entrada",
+      "name": "Hall do Ensino Fundamental I · 02",
+      "group": "escola",
       "thumb": "media/panorama_1FE43D1A_0BDB_ABE0_4193_9FC48F558355_t.webp"
     },
     {
       "index": 61,
-      "name": "Hall · 03",
-      "group": "entrada",
+      "name": "Hall do Ensino Fundamental I · 03",
+      "group": "escola",
       "thumb": "media/panorama_1FE597F0_0BDA_6620_4166_C0BDC5FB309C_t.webp"
     },
     {
@@ -716,44 +728,44 @@
     },
     {
       "index": 78,
-      "name": "Restaurante · 01",
-      "group": "alimentacao",
+      "name": "Refeitório do Ensino Fundamental · 01",
+      "group": "escola",
       "thumb": "media/panorama_1D428199_0BBA_DAE3_41A1_2BA3A294EB8B_t.webp"
     },
     {
       "index": 79,
-      "name": "Restaurante · 02",
-      "group": "alimentacao",
+      "name": "Refeitório do Ensino Fundamental · 02",
+      "group": "escola",
       "thumb": "media/panorama_1EBF29BA_0BBA_EA20_416E_AF5A3B13ED30_t.webp"
     },
     {
       "index": 80,
       "name": "Sala de Vídeo · 01",
-      "group": "cultura",
+      "group": "escola",
       "thumb": "media/panorama_1CD1F974_0BBA_6A20_4176_5AC7A1A53202_t.webp"
     },
     {
       "index": 81,
       "name": "Sala de Vídeo · 02",
-      "group": "cultura",
+      "group": "escola",
       "thumb": "media/panorama_1E8B489E_0BBA_6AE0_418E_DB39F6228F46_t.webp"
     },
     {
       "index": 82,
-      "name": "Sala Multiuso · 01",
-      "group": "cultura",
+      "name": "Biblioteca · 01",
+      "group": "escola",
       "thumb": "media/panorama_1E4D0BD5_0BB6_EE60_41A1_31B3DDDECAD1_t.webp"
     },
     {
       "index": 83,
-      "name": "Sala Multiuso · 02",
-      "group": "cultura",
+      "name": "Biblioteca · 02",
+      "group": "escola",
       "thumb": "media/panorama_1E8DD41E_0BB6_F9E1_419B_33D6803AD44E_t.webp"
     },
     {
       "index": 84,
-      "name": "Sala Multiuso · 03",
-      "group": "cultura",
+      "name": "Biblioteca · 03",
+      "group": "escola",
       "thumb": "media/panorama_1E8D3A4E_0BB6_EE60_4191_26F49A9DCA9A_t.webp"
     }
   ]
