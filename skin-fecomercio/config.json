@@ -1,12 +1,12 @@
 {
-  "version": "4.3.6-araguaina-native-safe-r1",
+  "version": "5.0-araguaina-revisao-cliente-20261109-r1",
   "brand": {
     "systemName": "SISTEMA FECOMÉRCIO",
     "tourName": "Centro de Atividades Sesc Araguaína - Anselmo da Silva Moraes",
     "unitName": "Centro de Atividades Sesc Araguaína - Anselmo da Silva Moraes",
-    "logo": "skin-fecomercio/assets/sesc-1x1-colorido.png",
-    "cornerLogo": "skin-fecomercio/assets/sesc-1x1-colorido.png",
-    "tagline": "Cuidar das pessoas é a nossa essência.",
+    "logo": "skin-fecomercio/assets/marca-sesc-colorida-20261109.png",
+    "cornerLogo": "skin-fecomercio/assets/marca-sesc-branca-20261109.png",
+    "tagline": "",
     "colors": {
       "blue": "#004C99",
       "blueDark": "#003865",
@@ -89,84 +89,8 @@
       ]
     },
     {
-      "id": "esporte",
-      "number": "03",
-      "short": "Esporte",
-      "title": "Esporte & Lazer",
-      "eyebrow": "Movimento e bem-estar",
-      "description": "Explore academia, ginásio, Pilates, piscinas e espaços de atividades físicas.",
-      "accent": "#49A942",
-      "surface": "#E3F5DE",
-      "destinations": [
-        {
-          "label": "Academia 2º andar · 01",
-          "index": 3
-        },
-        {
-          "label": "Academia 3º andar · 01",
-          "index": 8
-        },
-        {
-          "label": "Ginásio · 01",
-          "index": 56
-        },
-        {
-          "label": "Karatê Funcional · 01",
-          "index": 62
-        },
-        {
-          "label": "Pilates · 01",
-          "index": 65
-        },
-        {
-          "label": "Piscina Infantil · 01",
-          "index": 67
-        },
-        {
-          "label": "Piscina Adulto · 01",
-          "index": 70
-        },
-        {
-          "label": "Piscina Hidroginástica · 01",
-          "index": 73
-        }
-      ]
-    },
-    {
-      "id": "cultura",
-      "number": "04",
-      "short": "Cultura",
-      "title": "Cultura",
-      "eyebrow": "Espaços de encontro",
-      "description": "Visite o auditório da unidade.",
-      "accent": "#8C59AD",
-      "surface": "#F2E6FA",
-      "destinations": [
-        {
-          "label": "Auditório Cine · 01",
-          "index": 13
-        }
-      ]
-    },
-    {
-      "id": "saude",
-      "number": "05",
-      "short": "Saúde",
-      "title": "Saúde",
-      "eyebrow": "Saúde e cuidado",
-      "description": "Conheça os consultórios odontológicos da unidade.",
-      "accent": "#12AFC2",
-      "surface": "#DDFBFC",
-      "destinations": [
-        {
-          "label": "Consultório Odontológico · 01",
-          "index": 17
-        }
-      ]
-    },
-    {
       "id": "escola",
-      "number": "06",
+      "number": "03",
       "short": "Educação",
       "title": "Educação",
       "eyebrow": "Aprender e descobrir",
@@ -241,8 +165,100 @@
       ]
     },
     {
-      "id": "alimentacao",
+      "id": "saude",
+      "number": "04",
+      "short": "Saúde",
+      "title": "Saúde",
+      "eyebrow": "Saúde e cuidado",
+      "description": "Conheça os consultórios odontológicos da unidade.",
+      "accent": "#12AFC2",
+      "surface": "#DDFBFC",
+      "destinations": [
+        {
+          "label": "Consultório Odontológico · 01",
+          "index": 17
+        }
+      ]
+    },
+    {
+      "id": "cultura",
+      "number": "05",
+      "short": "Cultura",
+      "title": "Cultura",
+      "eyebrow": "Espaços de encontro",
+      "description": "Visite o auditório da unidade.",
+      "accent": "#8C59AD",
+      "surface": "#F2E6FA",
+      "destinations": [
+        {
+          "label": "Auditório · 01",
+          "index": 13
+        }
+      ]
+    },
+    {
+      "id": "esporte",
+      "number": "06",
+      "short": "Lazer/Esporte",
+      "title": "Lazer/Esporte",
+      "eyebrow": "Movimento e bem-estar",
+      "description": "Explore academia, ginásio, Pilates, piscinas e espaços de atividades físicas.",
+      "accent": "#49A942",
+      "surface": "#E3F5DE",
+      "destinations": [
+        {
+          "label": "Academia 2º andar · 01",
+          "index": 3
+        },
+        {
+          "label": "Academia 3º andar · 01",
+          "index": 8
+        },
+        {
+          "label": "Ginásio · 01",
+          "index": 56
+        },
+        {
+          "label": "Karatê Funcional · 01",
+          "index": 62
+        },
+        {
+          "label": "Pilates · 01",
+          "index": 65
+        },
+        {
+          "label": "Piscina Infantil · 01",
+          "index": 67
+        },
+        {
+          "label": "Piscina Adulto · 01",
+          "index": 70
+        },
+        {
+          "label": "Piscina Hidroginástica · 01",
+          "index": 73
+        }
+      ]
+    },
+    {
+      "id": "assistencia",
       "number": "07",
+      "short": "Assistência",
+      "title": "Assistência",
+      "eyebrow": "Atendimento",
+      "description": "Recepção e atendimento na unidade.",
+      "accent": "#0B78BF",
+      "surface": "#DDF2FF",
+      "destinations": [
+        {
+          "label": "Recepção · 01",
+          "index": 75
+        }
+      ]
+    },
+    {
+      "id": "alimentacao",
+      "number": "08",
       "short": "Alimentação",
       "title": "Alimentação",
       "eyebrow": "Alimentação e convivência",
@@ -338,25 +354,25 @@
     },
     {
       "index": 13,
-      "name": "Auditório Cine · 01",
+      "name": "Auditório · 01",
       "group": "cultura",
       "thumb": "media/panorama_1B7291C5_0BB6_DA60_418F_541CE87C5808_t.webp"
     },
     {
       "index": 14,
-      "name": "Auditório Cine · 02",
+      "name": "Auditório · 02",
       "group": "cultura",
       "thumb": "media/panorama_1B3DAA45_0BB6_EE63_4193_57374F2A6930_t.webp"
     },
     {
       "index": 15,
-      "name": "Auditório Cine · 03",
+      "name": "Auditório · 03",
       "group": "cultura",
       "thumb": "media/panorama_1B3DF0F3_0BB6_FA20_418D_4B0130CC44DD_t.webp"
     },
     {
       "index": 16,
-      "name": "Auditório Cine · 04",
+      "name": "Auditório · 04",
       "group": "cultura",
       "thumb": "media/panorama_1B3DB7EB_0BB6_E627_4191_6209841CFCF8_t.webp"
     },
@@ -711,19 +727,19 @@
     {
       "index": 75,
       "name": "Recepção · 01",
-      "group": "entrada",
+      "group": "assistencia",
       "thumb": "media/panorama_1E4D4292_0BBB_DEE1_41A5_FCC46110C698_t.webp"
     },
     {
       "index": 76,
       "name": "Recepção · 02",
-      "group": "entrada",
+      "group": "assistencia",
       "thumb": "media/panorama_1F50E2D8_0BBB_BE61_415F_82B991675100_t.webp"
     },
     {
       "index": 77,
       "name": "Recepção · 03",
-      "group": "entrada",
+      "group": "assistencia",
       "thumb": "media/panorama_1F53DDCE_0BBB_AA61_4195_53F9CE17AEA4_t.webp"
     },
     {
