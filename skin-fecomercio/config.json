@@ -72,9 +72,9 @@
       "id": "entrada",
       "number": "02",
       "short": "Entrada",
-      "title": "Entrada & Recepção",
+      "title": "Entrada & Central de Relacionamento",
       "eyebrow": "Acessos e convivência",
-      "description": "Conheça os acessos e a recepção da unidade.",
+      "description": "Conheça os acessos e a Central de Relacionamento da unidade.",
       "accent": "#0B78BF",
       "surface": "#DDF2FF",
       "destinations": [
@@ -83,7 +83,7 @@
           "index": 41
         },
         {
-          "label": "Recepção · 01",
+          "label": "Central de Relacionamento",
           "index": 75
         }
       ]
@@ -246,12 +246,12 @@
       "short": "Assistência",
       "title": "Assistência",
       "eyebrow": "Atendimento",
-      "description": "Recepção e atendimento na unidade.",
+      "description": "Atendimento na Central de Relacionamento da unidade.",
       "accent": "#0B78BF",
       "surface": "#DDF2FF",
       "destinations": [
         {
-          "label": "Recepção · 01",
+          "label": "Central de Relacionamento",
           "index": 75
         }
       ]
@@ -726,19 +726,19 @@
     },
     {
       "index": 75,
-      "name": "Recepção · 01",
+      "name": "Central de Relacionamento · 01",
       "group": "assistencia",
       "thumb": "media/panorama_1E4D4292_0BBB_DEE1_41A5_FCC46110C698_t.webp"
     },
     {
       "index": 76,
-      "name": "Recepção · 02",
+      "name": "Central de Relacionamento · 02",
       "group": "assistencia",
       "thumb": "media/panorama_1F50E2D8_0BBB_BE61_415F_82B991675100_t.webp"
     },
     {
       "index": 77,
-      "name": "Recepção · 03",
+      "name": "Central de Relacionamento · 03",
       "group": "assistencia",
       "thumb": "media/panorama_1F53DDCE_0BBB_AA61_4195_53F9CE17AEA4_t.webp"
     },
